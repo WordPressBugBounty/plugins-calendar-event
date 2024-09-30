@@ -68,7 +68,7 @@ Event Calendar is a flexible calendar plugin that allows you to connect to your 
 * **Start Date** - You Can select the start of the event (To display events in the calendar if you have a browser Safari, firefox or Internet explorer should write yyyy-mm-dd).
 * **End Date** - You Can select the finish date of the event (To display events if you have a browser Safari, firefox or Internet explorer should write yyyy-mm-dd).
 * **Event URL** - You can set external URL, which should be included in the event.
-* Open in new tab - Choose, by clicking on the link should open in new tab or not.
+* **Open in new tab** - Choose, by clicking on the link should open in new tab or not.
 * **Start Time (Required field)** - Can select the event start time (To display events in the calendar if you have a browser Safari, Firefox or Internet explorer should write hh:mm).
 * **End Time (Required field)** - Can select the event end time (To display events if you have a browser Safari, Firefox or Internet explorer should write hh:mm).
 * **Event color** - Select that color, which you want to see for your event, which shows in the calendar (Event Color option is only for Event Calendar Type.).
