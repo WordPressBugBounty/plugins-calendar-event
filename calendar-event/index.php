@@ -4,7 +4,7 @@
       Plugin URI: https://total-soft.com/wp-event-calendar/
       Description: Event Calendar plugin created for showing your events. Total-Soft Calendar is the best if you want to be original on your website.
       Author: Calendar by TS Team
-      Version: 1.5.9
+      Version: 1.6.0
       Author URI: https://total-soft.com/
       License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
     */
